@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tableau, PowerBI and advanced SQL**
 
-- 👯 I collaborate on [Föhn warning](https://github.com/FloFriebel/jawP_projectV2)
+- 👯 I collaborate on [Föhn warning](https://github.com/FloFriebel/jawP_projectV2) with a [streamlit interface](https://github.com/FloFriebel/jawP_streamlit)
 
 - 📫 How to reach me **jessicajaehne@mailbox.org**
 
