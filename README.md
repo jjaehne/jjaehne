@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">Passionate about Data and recently graduated from an intensive bootcamp in Data Science & AI, where I enthusiastically completed both individual and group projects with people from different countries. With prior experience as a Data Manager, I bring valuable insights to the table and remain open to new ideas and possibilities</h3>
 
-- 🌱 I’m currently learning **Tableau, PowerBI and advanced SQL**
+- 🌱 I’m currently learning **Tableau, Stochastic Foundations and advanced SQL**
 
 - 👯 I collaborate on [Föhn warning](https://github.com/FloFriebel/jawP_projectV2) with a [streamlit interface](https://github.com/FloFriebel/jawP_streamlit)
 
